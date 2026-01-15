@@ -1,0 +1,13 @@
+nest_asyncio
+torch==2.0.0
+transformers
+llama_index
+llama_index.llms.huggingface
+llama_index.embeddings.huggingface
+llama_index.vector_stores.milvus
+llama_index.finetuning
+bitsandbytes
+accelerate
+rake_nltk
+langchain
+langchain_openai
